@@ -25,7 +25,7 @@
 ## Description
 
 <p align="center">
-  <img src="assets/img/imersion-fulll-cycle.svg" width="120" alt="Nest Logo" />
+  <img src="assets/img/imersion-fulll-cycle.svg" alt="Nest Logo" />
 </p>
 
 This project will be the core service that will manage all the routes of the management system implemented during the Full Stack and Full Cycle Immersion of the Full Cycle Technology College.
