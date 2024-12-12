@@ -24,6 +24,14 @@
 
 ## Description
 
+<p align="center">
+  <img src="assets/img/imersion-fulll-cycle.svg" width="120" alt="Nest Logo" />
+</p>
+
+This project will be the core service that will manage all the routes of the management system implemented during the Full Stack and Full Cycle Immersion of the Full Cycle Technology College.
+
+The FrontEnd will use this API to record the routes and present this information to administrators and drivers.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
